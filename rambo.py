@@ -15,8 +15,8 @@ LOGIN_URL = "https://imssms.org/login"
 SIGNIN_URL = "https://imssms.org/signin"
 AJAX_URL = "https://imssms.org/client/res/data_smscdr.php"
 
-USERNAME = "mohammedsdn"
-PASSWORD = "mohammedsdn11"
+USERNAME = "V39MohammedTar"
+PASSWORD = "V39MohammedTar"
 
 session = requests.Session()
 session.verify = True  # تحقق SSL
